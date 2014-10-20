@@ -4,15 +4,15 @@ Chrome DevTools Dark Theme
 A devtools theme extension using the new API
 
 
-![image](https://lh6.googleusercontent.com/ENCXIt7f8SX7dK3LIthxLnR7o0sJiY1HL74-71x3x_hXwcOgJGJ4qYbdn7_rlkcfahDWYOjnZWY=s1280-h800-e365-rw)
+![image](images/elements.png)
 
 
 
-![image](https://lh6.googleusercontent.com/P_7waIIyzje5p5crwwg3PC7QD270Fn30BmTMgthfQzKk0U82EuDlsqzAEBIy0KQx8xjuyb-J3A=s1280-h800-e365-rw)
+![image](images/network.png)
 
 
 
-![image](https://lh6.googleusercontent.com/KHWJDt7WJ7sjZTverY04c_Sx9mLqoesHMNwHdwHbcJBnrTFPFJBpmtOiUieSdY5BugqiRA9mGQ=s1280-h800-e365-rw)
+![image](images/timeline.png)
 
 
 ### Usage:
